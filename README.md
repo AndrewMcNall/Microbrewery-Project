@@ -1,2 +1,2 @@
 # Coursera_Capstone
-A repository for the capstone project at Coursera
+Potential Locations for a Microbrewery in Portland, Oregon. A capstone project for Coursera Data Science certificate.
